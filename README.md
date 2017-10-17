@@ -9,7 +9,7 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [SteemIt Daily Wechat Group RSS Feed for Posts](https://helloacm.com/tools/steemit/wechat-ranking/rss/)
 - [SteemIt Daily Wechat Group RSS Feed for Comments](https://helloacm.com/tools/steemit/wechat-ranking/rss/comments/)
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
-Interests of **14.6%** APR is given on daily basis.
+Interests of **14.6%** APR is given on daily basis (UTC timezone midnight).
 
 # STEEMIT Tools and APIs
 - [SteemIt Tools and APIs](https://helloacm.com/tools/steemit/)
@@ -25,7 +25,7 @@ Interests of **14.6%** APR is given on daily basis.
 - [SteemIt 好友微信群文章列表](https://helloacm.com/tools/steemit/wechat/rss/)
 - [SteemIt 好友微信群评论列表](https://helloacm.com/tools/steemit/wechat/rss/comments/)
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy) 
-每日利息 **14.6%** 年化率
+利息每天英国凌晨发放 (**14.6%** 年化率)
 
 # STEEMIT 在线工具和API接口
 - [STEEMIT 在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
