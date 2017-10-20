@@ -37,5 +37,5 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 # STEEMIT 教程、在线工具和API接口
 - [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
 
-# 怎么加入CN银行，成为股东，享受点赞，走向人生巅峰？
+# 怎么加入CN银行、成为股东、享受点赞、走向人生巅峰？
 [代理给 @justyy ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统7天还到你的帐号。
