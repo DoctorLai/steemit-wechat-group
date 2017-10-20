@@ -9,23 +9,33 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [SteemIt Daily Wechat Group RSS Feed for Posts](https://helloacm.com/tools/steemit/wechat-ranking/rss/)
 - [SteemIt Daily Wechat Group RSS Feed for Comments](https://helloacm.com/tools/steemit/wechat-ranking/rss/comments/)
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
-Interests of **14.6%** APR is given on daily basis (UTC timezone midnight).
 
-# STEEMIT Tools and APIs
-- [SteemIt Tools and APIs](https://helloacm.com/tools/steemit/)
+# STEEMIT CN BANK & Group Voting Robot
+14.6% APR will be changed to **10%** APR from 27-Oct-2017. The SBD is given on daily basis (UTC timezone midnight).
 
-# STEEMIT中文区最大的微信群
+# STEEMIT Tutorials, Tools and APIs
+- [SteemIt Tutorials, Tools and APIs](https://helloacm.com/tools/steemit/)
+
+# How to Join @justyy CN Bank & Robot?
+[Delegate @justyy](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 7 days (set by Steem system).
+
+# STEEMIT 中文区最大的微信群
 如果您已经在微信群里，但是不在这个列表上，请联系 [@justyy](https://steemit.com/@justyy/) 或者提交一个PR 到 *members.txt* 经审核后会更新到列表上。
 
-# 怎么样加入STEEMIT中文微信群？
+# 怎么样加入 STEEMIT 中文微信群？
 请发邮件到 wexin@justyy.com 并且说明你的STEEMIT ID。
 
-# STEEMIT微信群会员好处
+# STEEMIT 微信群会员好处
 - [SteemIt 好友微信群排行榜](https://helloacm.com/tools/steemit/wechat/)
 - [SteemIt 好友微信群文章列表](https://helloacm.com/tools/steemit/wechat/rss/)
 - [SteemIt 好友微信群评论列表](https://helloacm.com/tools/steemit/wechat/rss/comments/)
-- [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy) 
-利息每天英国凌晨发放 (**14.6%** 年化率)
+- [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
 
-# STEEMIT 在线工具和API接口
-- [STEEMIT 在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
+# STEEMIT 中文区银行和自动点赞
+当前年化率为 14.6%。 2017年10月27日后将降为 **10%**。利息每天英国凌晨(UTC)以SBD发放。
+
+# STEEMIT 教程、在线工具和API接口
+- [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
+
+# 怎么加入CN银行，成为股东，享受点赞，走向人生巅峰？
+[代理给 @justyy ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统7天还到你的帐号。
