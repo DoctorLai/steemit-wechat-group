@@ -17,7 +17,7 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [SteemIt Tutorials, Tools and APIs](https://helloacm.com/tools/steemit/)
 
 # How to Join @justyy CN Bank & Robot?
-[Delegate @justyy](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 7 days (set by Steem system).
+[Delegate @justyy](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 7 days (set by Steem system).
 
 # STEEMIT 中文区最大的微信群
 如果您已经在微信群里，但是不在这个列表上，请联系 [@justyy](https://steemit.com/@justyy/) 或者提交一个PR 到 *members.txt* 经审核后会更新到列表上。
