@@ -218,3 +218,4 @@ rosatravels
 stabilowl
 qianxun
 wilburm
+cnbuddy
