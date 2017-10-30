@@ -220,3 +220,4 @@ qianxun
 wilburm
 cnbuddy
 quantum-bug
+chinadaily
