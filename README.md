@@ -32,7 +32,11 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
 
 # STEEMIT 中文区银行和自动点赞
-当前年化率为 14.6%。 2017年10月27日后将降为 **10%**。利息每天英国凌晨(UTC)以SBD发放。
+当前年化率为 5%（按 1 SBD = 1 SP 来算）。代理是 Steem Power，但利息每天英国凌晨(UTC)以SBD发放。比如：
+
+```
+Thank you for supporting @justyy ! Your 3004.67 SP gives you daily interests of 0.413 SBD (5% APR) - (2018-01-04): 1 STEEM = 5.443 SBD
+```
 
 # STEEMIT 教程、在线工具和API接口
 - [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
