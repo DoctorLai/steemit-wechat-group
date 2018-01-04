@@ -11,7 +11,11 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
 
 # STEEMIT CN BANK & Group Voting Robot
-14.6% APR will be changed to **10%** APR from 27-Oct-2017. The SBD is given on daily basis (UTC timezone midnight).
+The SBD is given on daily basis (UTC timezone midnight). The APR is 5% assuming 1 Steem Power = 1 SBD. For example,
+
+```
+Thank you for supporting @justyy ! Your 3004.67 SP gives you daily interests of 0.413 SBD (5% APR) - (2018-01-04): 1 STEEM = 5.443 SBD
+```
 
 # STEEMIT Tutorials, Tools and APIs
 - [SteemIt Tutorials, Tools and APIs](https://helloacm.com/tools/steemit/)
