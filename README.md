@@ -55,10 +55,12 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 
 满足两个条件才可以！ 从明天开始试行！2018年3月6日。 具体请看： https://steemit.com/cn/@justyy/2bwmvk-yy
 
+## [随着行长权力越来越大，股东们的福利是越来越好的，一起加油吧 骚年](https://steemit.com/cn/@justyy/3gzezi)
+
 # STEEMIT 教程、在线工具和API接口
 - [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
 
 # 怎么加入CN银行、成为股东、享受点赞、走向人生巅峰？
 [代理给 @justyy ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统7天还到你的帐号。
 
-## [随着行长权力越来越大，股东们的福利是越来越好的，一起加油吧 骚年](https://steemit.com/cn/@justyy/3gzezi)
+
