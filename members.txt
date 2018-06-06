@@ -522,3 +522,6 @@ xiaozi
 john811
 nean
 lilan
+snoopycode
+blues-wclouds
+bitalk-cc
