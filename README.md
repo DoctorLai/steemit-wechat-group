@@ -30,7 +30,7 @@ Get a higher interest rate at 9% or 10% if:
 
 Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
 
-- [Delegate to @justyy at least 5 SP to join](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy)
+- [Delegate to @justyy at least 5 SP to join](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) - automatically
 - [Undelegate to @justyy (Quit)](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy&amount=0) SP returned by steem blockchain in 7 days
 - [View Current Delegators/Supporters](https://helloacm.com/tools/steemit/delegators/?id=justyy)
 
@@ -71,6 +71,6 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 
 请注意：每次代理都是以最后一次输入的SP数量为标准，比如已经代理10 SP，想多代理5 SP则需要输入 最后的数字 15 SP（而不是 5！）
 
-- [加入银行 - 代理至少 5 SP](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy)
+- [加入银行 - 代理至少 5 SP](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) - 全自动的，不需要确认。
 - [取消代理 - 退出银行 ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy&amount=0) SP 将由STEEM区块链7天返回。
 - [查看当前股东列表 - 代理支持行长 @justyy](https://helloacm.com/tools/steemit/list-of-delegators/?id=justyy)
