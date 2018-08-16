@@ -22,6 +22,9 @@ Get a higher interest rate at 9% or 10% if:
 - Delegate at least 350 SP for higher rate 9%.
 - Delegate at least 600 SP for higher rate 10%.
 
+# Update
+- 2018-08-17: [@justyy Bank Changes Interests Currency to STEEM](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
+
 # STEEMIT Tutorials, Tools and APIs
 - [SteemIt Tutorials, Tools and APIs](https://helloacm.com/tools/steemit/)
 
@@ -54,6 +57,9 @@ Please note that the SP you enter is the final amount to delegate. For example, 
 ```
 Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 0.661 SBD (8% APR) - (2018-01-06): 1 STEEM = 5.81 USD, 1 SBD = 7.61 USD
 ```
+
+# 更新
+[银行从2018-08-17开始发STEEM利息了](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
 
 ## YY 银行有条件加息试行条例
 - 条件一：需要支持我为[见证人](https://steemit.com/cn/@justyy/5h6gyv-cn)
