@@ -11,7 +11,7 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
 
 # STEEMIT CN BANK & Group Voting Robot
-The SBD is given on daily basis (UTC timezone midnight). The APR is 8-10% assuming 1 Steem Power = 1 SBD. For example,
+The interest is given on daily basis (UTC timezone midnight). The APR is 8-10% assuming 1 Steem Power = 1 STEEM = 1 SBD. For example,
 
 ```
 Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 0.661 SBD (8% APR) - (2018-01-06): 1 STEEM = 5.81 USD, 1 SBD = 7.61 USD
@@ -52,7 +52,7 @@ Please note that the SP you enter is the final amount to delegate. For example, 
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
 
 # STEEMIT 中文区银行和自动点赞
-当前年化率为 8-10%（按 1 SBD = 1 SP 来算）。代理是 Steem Power，但利息每天英国凌晨(UTC)以SBD发放。比如：
+当前年利率APR为 8-10%（按 1 SBD = 1 STEEM = 1 SP 来算）。代理是 Steem Power， 利息每天英国凌晨(UTC)发放。比如：
 
 ```
 Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 0.661 SBD (8% APR) - (2018-01-06): 1 STEEM = 5.81 USD, 1 SBD = 7.61 USD
@@ -65,7 +65,7 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 - 条件一：需要支持我为[见证人](https://steemit.com/cn/@justyy/5h6gyv-cn)
 - 条件二：代理SP大于等于 600 奖励利息 2% 大于350 奖励利息 1%
 
-满足两个条件才可以！ 从明天开始试行！2018年3月6日。 具体请看： https://steemit.com/cn/@justyy/2bwmvk-yy
+满足两个条件才可以！ 从2018年3月6日开始试行！具体请看： https://steemit.com/cn/@justyy/2bwmvk-yy
 
 ## [随着行长权力越来越大，股东们的福利是越来越好的，一起加油吧 骚年](https://steemit.com/cn/@justyy/3gzezi)
 
