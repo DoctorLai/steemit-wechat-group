@@ -68,6 +68,7 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 满足两个条件才可以！ 从2018年3月6日开始试行！具体请看： https://steemit.com/cn/@justyy/2bwmvk-yy
 
 ## [随着行长权力越来越大，股东们的福利是越来越好的，一起加油吧 骚年](https://steemit.com/cn/@justyy/3gzezi)
+1. [现在上车还来得及，行长欢迎你！](https://justyy.com/archives/6575)
 
 # STEEMIT 教程、在线工具和API接口
 - [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
