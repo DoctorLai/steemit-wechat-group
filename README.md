@@ -34,7 +34,7 @@ Get a higher interest rate at 9% or 10% if:
 Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
 
 - [Delegate to @justyy at least 5 SP to join](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) - automatically
-- [Undelegate to @justyy (Quit)](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy&amount=0) SP returned by steem blockchain in 7 days
+- [Undelegate to @justyy (Quit)](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy&amount=0) SP returned by steem blockchain in 5 days.
 - [View Current Delegators/Supporters](https://helloacm.com/tools/steemit/delegators/?id=justyy)
 
 -----------------------------------------
