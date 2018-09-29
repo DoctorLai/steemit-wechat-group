@@ -29,7 +29,7 @@ Get a higher interest rate at 9% or 10% if:
 - [SteemIt Tutorials, Tools and APIs](https://helloacm.com/tools/steemit/)
 
 # How to Join @justyy CN Bank & Robot?
-[Delegate @justyy](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 7 days (set by Steem system).
+[Delegate @justyy](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 5 days (SP Return Cooldown).
 
 Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
 
@@ -74,7 +74,7 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 - [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
 
 # 怎么加入CN银行、成为股东、享受点赞、走向人生巅峰？
-[代理给 @justyy ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统7天还到你的帐号。
+[代理给 @justyy ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统5天还到你的帐号(HF20 后 系统SP Return Cooldown 时间是5天)。
 
 请注意：每次代理都是以最后一次输入的SP数量为标准，比如已经代理10 SP，想多代理5 SP则需要输入 最后的数字 15 SP（而不是 5！）
 
