@@ -22,8 +22,9 @@ Get a higher interest rate at 9% or 10% if:
 - Delegate at least 350 SP for higher rate 9%.
 - Delegate at least 600 SP for higher rate 10%.
 
-## Voting
-The voting percentage is calculated via [Here](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py)
+## Voting Algorithm
+- The voting percentage is calculated via [Here](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py).
+- [Bank Of China Implements a New Voting Algorithm](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm)
 
 # Update
 - 2018-08-17: [@justyy Bank Changes Interests Currency to STEEM](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
@@ -86,4 +87,5 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 - [查看当前股东列表 - 代理支持行长 @justyy](https://steemyy.com/list-of-delegators/?id=justyy)
 
 ## 点赞比例
-点赞比例计算方法 [在这里](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py)
+- 点赞比例计算方法 [在这里](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py)
+- [银行开源点赞比例计算算法啦](https://steemit.com/cn/@justyy/6encje)
