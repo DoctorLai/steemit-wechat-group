@@ -5,7 +5,7 @@ MIN_POST_LENGTH = 200
 # minimal valid posting percentage
 MIN_VALUE = 0.5
 # maximum valid posting percentage
-MAX_VALUE = 50
+MAX_VALUE = 35
 # minimal SP to be voted
 MIN_SP = 5 
 # bonus for witness vote
@@ -21,12 +21,14 @@ BLACKLIST_TAGS = ['test', 'cn-shui', 'nsfw']
 # bonus post tags
 BONUS_TAGS = { 'cn-activity': 2.0 }
 # weight for user's delegation comparing to global
-W_DELEGATION = { 1000: 1.2, 900: 1, 600: 0.7, 350: 0.45, 150: 0.3, 100: 0.15, 50: 0.1, 0: 0.05 }
+W_DELEGATION = [ (1000, 1.2), (900, 1), (600, 0.7), (350, 0.45), (150, 0.3), (100, 0.15), (50, 0.1), (0, 0.05) ]
 # weight for user's delegation comparing to his/her own SP
 W_DELEGATION_USER = 0.3
 # weight for user's reputation
 W_REP = 0.2
-
+# adjustment according to different levels
+ADJUSTMENTS = [ (15, 0.30), (20, 0.35), (50, 0.40), (100, 0.45), (350, 0.55), (600, 0.75), (800, 0.80), (1000, 0.85), (1200, 0.9), (1600, 0.95) ]
+        
 # return a voting value from MIN_VALUE to MAX_VALUE 
 def bank_getvp(
     delegated,          # the user delegated SP amount e.g. 100 
@@ -73,8 +75,8 @@ def bank_getvp(
     score = 0                
     # the higher percentage user's delegation comparing to all delegated SP, the better 
     for _ in W_DELEGATION:
-        if delegated >= _:
-            score += W_DELEGATION[_] * norm(delegated, total_delegated)
+        if delegated >= _[0]:
+            score += _[1] * norm(delegated, total_delegated)
             break
     # add a linear part
     score += delegated / total_delegated   
@@ -89,12 +91,10 @@ def bank_getvp(
     # adjust to bot's VP
     score = score * bot_vp / 100
     # adjustment
-    if delegated <= 100:
-        score *= 0.6
-    elif delegated <= 350:
-        score *= 0.75
-    elif delegated <= 600:
-        score *= 0.9
+    for _ in ADJUSTMENTS:
+      if delegated < _[0]:
+        score *= _[1]
+        break
     # limit to range
     score = max(MIN_VALUE, score)
     score = min(MAX_VALUE, score)
