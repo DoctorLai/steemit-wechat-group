@@ -38,8 +38,8 @@ def bank_getvp(
     title,              # post's title string e.g. "Hello" 
     body,               # post's body string e.g. "Hello, world!"  
     is_member,          # is user part of the wechat member? 
-    votes_back,         # total sum(weight) from user to justyy or dailychina e.g. 100,00
-    witness_vote):      # has the user voted @justyy as witness?
+    witness_vote,       # has the user voted @justyy as witness?
+    votes_back):        # total sum(weight) from user to justyy or dailychina e.g. 100,00    
     global HIGH_REP, MIN_POST_LENGTH, MIN_VALUE, MAX_VALUE, MIN_SP, BONUS_WITNESS, BONUS_MEMBER, BLACKLIST_TAGS, BONUS_TAGS
     # not voting for delegation less than e.g. 5 SP
     if total_delegated < MIN_SP:
