@@ -5,9 +5,9 @@ SteemIt WeChat Group Members. You can contact [@justyy](https://steemit.com/@jus
 please email wexin@justyy.com mentioning your SteemIt ID.
 
 # STEEMIT CN WeChat Group Benefits
-- [SteemIt Daily Wechat Group Ranking](https://helloacm.com/tools/steemit/wechat-ranking/)
-- [SteemIt Daily Wechat Group RSS Feed for Posts](https://helloacm.com/tools/steemit/wechat-ranking/rss/)
-- [SteemIt Daily Wechat Group RSS Feed for Comments](https://helloacm.com/tools/steemit/wechat-ranking/rss/comments/)
+- [SteemIt Daily Wechat Group Ranking](https://steemyy.com/wechat-ranking/)
+- [SteemIt Daily Wechat Group RSS Feed for Posts](https://steemyy.com/wechat-ranking/rss/)
+- [SteemIt Daily Wechat Group RSS Feed for Comments](https://steemyy.com/wechat-ranking/rss/comments/)
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
 
 # STEEMIT CN BANK & Group Voting Robot
@@ -26,16 +26,16 @@ Get a higher interest rate at 9% or 10% if:
 - 2018-08-17: [@justyy Bank Changes Interests Currency to STEEM](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
 
 # STEEMIT Tutorials, Tools and APIs
-- [SteemIt Tutorials, Tools and APIs](https://helloacm.com/tools/steemit/)
+- [SteemIt Tutorials, Tools and APIs](https://steemyy.com/)
 
 # How to Join @justyy CN Bank & Robot?
-[Delegate @justyy](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 5 days (SP Return Cooldown).
+[Delegate @justyy](https://steemyy.com/sp-delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 5 days (SP Return Cooldown).
 
 Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
 
-- [Delegate to @justyy at least 5 SP to join](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy) - automatically
-- [Undelegate to @justyy (Quit)](https://helloacm.com/tools/steemit/sp-delegate-form/?delegatee=justyy&amount=0) SP returned by steem blockchain in 5 days.
-- [View Current Delegators/Supporters](https://helloacm.com/tools/steemit/delegators/?id=justyy)
+- [Delegate to @justyy at least 5 SP to join](https://steemyy.com/sp-delegate-form/?delegatee=justyy) - automatically
+- [Undelegate to @justyy (Quit)](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0) SP returned by steem blockchain in 5 days.
+- [View Current Delegators/Supporters](https://steemyy.com/delegators/?id=justyy)
 
 -----------------------------------------
 
@@ -46,9 +46,9 @@ Please note that the SP you enter is the final amount to delegate. For example, 
 请发邮件到 wexin@justyy.com 并且说明你的STEEMIT ID。
 
 # STEEMIT 微信群会员好处
-- [SteemIt 好友微信群排行榜](https://helloacm.com/tools/steemit/wechat/)
-- [SteemIt 好友微信群文章列表](https://helloacm.com/tools/steemit/wechat/rss/)
-- [SteemIt 好友微信群评论列表](https://helloacm.com/tools/steemit/wechat/rss/comments/)
+- [SteemIt 好友微信群排行榜](https://steemyy.com/wechat/)
+- [SteemIt 好友微信群文章列表](https://steemyy.com/wechat/rss/)
+- [SteemIt 好友微信群评论列表](https://steemyy.com/wechat/rss/comments/)
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
 
 # STEEMIT 中文区银行和自动点赞
@@ -71,13 +71,13 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 1. [现在上车还来得及，行长欢迎你！](https://justyy.com/archives/6575)
 
 # STEEMIT 教程、在线工具和API接口
-- [STEEMIT 教程、在线工具和API接口](https://helloacm.com/tools/steemit-tools/)
+- [STEEMIT 教程、在线工具和API接口](https://steemyy.com/steemit-tools/)
 
 # 怎么加入CN银行、成为股东、享受点赞、走向人生巅峰？
-[代理给 @justyy ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统5天还到你的帐号(HF20 后 系统SP Return Cooldown 时间是5天)。
+[代理给 @justyy ](https://steemyy.com/delegate-form/?delegatee=justyy) SP即可。取消只需要代理一次输入0。取消的SP将由STEEM系统5天还到你的帐号(HF20 后 系统SP Return Cooldown 时间是5天)。
 
 请注意：每次代理都是以最后一次输入的SP数量为标准，比如已经代理10 SP，想多代理5 SP则需要输入 最后的数字 15 SP（而不是 5！）
 
-- [加入银行 - 代理至少 5 SP](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy) - 全自动的，不需要确认。
-- [取消代理 - 退出银行 ](https://helloacm.com/tools/steemit/delegate-form/?delegatee=justyy&amount=0) SP 将由STEEM区块链7天返回。
-- [查看当前股东列表 - 代理支持行长 @justyy](https://helloacm.com/tools/steemit/list-of-delegators/?id=justyy)
+- [加入银行 - 代理至少 5 SP](https://steemyy.com/delegate-form/?delegatee=justyy) - 全自动的，不需要确认。
+- [取消代理 - 退出银行 ](https://steemyy.com/delegate-form/?delegatee=justyy&amount=0) SP 将由STEEM区块链7天返回。
+- [查看当前股东列表 - 代理支持行长 @justyy](https://steemyy.com/list-of-delegators/?id=justyy)
