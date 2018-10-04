@@ -20,6 +20,8 @@ MAX_VOTE_BACK = 20000
 BLACKLIST_TAGS = ['test', 'cn-shui', 'nsfw']
 # bonus post tags
 BONUS_TAGS = { 'cn-activity': 2.0 }
+# bonus post tags
+LESS_TAGS = { 'stats': 0.55, 'cn-stats': 0.55, 'steem-stats': 0.55, 'steemit-stats': 0.55, 'statistics': 0.55, 'actifit': 0.6 }
 # weight for user's delegation comparing to global
 W_DELEGATION = [ (1000, 1.2), (900, 1), (600, 0.7), (350, 0.45), (150, 0.3), (100, 0.15), (50, 0.1), (0, 0.05) ]
 # weight for user's delegation comparing to his/her own SP
@@ -95,6 +97,12 @@ def bank_getvp(
       if delegated < _[0]:
         score *= _[1]
         break
+    # tags we don't like
+    for _ in tags:
+        if _ in LESS_TAGS:
+            score *= LESS_TAGS[_]
+            # only 1 maximum less tag
+            break            
     # limit to range
     score = max(MIN_VALUE, score)
     score = min(MAX_VALUE, score)
@@ -118,4 +126,4 @@ if __name__ == "__main__":
     print(bank_getvp(800, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
     print(bank_getvp(1200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
     print(bank_getvp(1600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(2500, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))    
+    print(bank_getvp(2500, 20000, 80, 30000, 55, ["cn", 'stats'], title, body, True, True, 10000))    
