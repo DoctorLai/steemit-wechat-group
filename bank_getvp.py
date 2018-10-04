@@ -20,7 +20,7 @@ MAX_VOTE_BACK = 20000
 BLACKLIST_TAGS = ['test', 'cn-shui', 'nsfw']
 # bonus post tags
 BONUS_TAGS = { 'cn-activity': 2.0 }
-# bonus post tags
+# tags we don't like
 LESS_TAGS = { 'stats': 0.55, 'cn-stats': 0.55, 'steem-stats': 0.55, 'steemit-stats': 0.55, 'statistics': 0.55, 'actifit': 0.6 }
 # weight for user's delegation comparing to global
 W_DELEGATION = [ (1000, 1.2), (900, 1), (600, 0.7), (350, 0.45), (150, 0.3), (100, 0.15), (50, 0.1), (0, 0.05) ]
