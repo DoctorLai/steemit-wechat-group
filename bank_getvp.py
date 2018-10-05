@@ -102,7 +102,12 @@ def bank_getvp(
         if _ in LESS_TAGS:
             score *= LESS_TAGS[_]
             # only 1 maximum less tag
-            break            
+            break         
+    # final adjustment to ensure at least 80% VP
+    if bot_vp < 80:
+      score *= 0.7
+    elif bot_vp < 90:
+      score *= 0.85   
     # limit to range
     score = max(MIN_VALUE, score)
     score = min(MAX_VALUE, score)
