@@ -33,13 +33,14 @@ Get a higher interest rate at 9% or 10% if:
 - [SteemIt Tutorials, Tools and APIs](https://steemyy.com/)
 
 # How to Join @justyy CN Bank & Robot?
-[Delegate @justyy](https://steemyy.com/sp-delegate-form/?delegatee=justyy) Steem Power. Fill amount by zero if you want to cancel it. After undelegate, your SP will return to your account in 5 days (SP Return Cooldown).
+## Delegate to @justyy
+@justyy runs a automatic delegation service for nearly a year now. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (from 8% to 10% APR). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
 
-Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
-
-- [Delegate to @justyy at least 5 SP to join](https://steemyy.com/sp-delegate-form/?delegatee=justyy) - automatically
-- [Undelegate to @justyy (Quit)](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0) SP returned by steem blockchain in 5 days.
+- Delegate to @justyy - [at least 5 SP to join (automatically)](https://steemyy.com/sp-delegate-form/?delegatee=justyy)
+- [Undelegate to @justyy (Quit) - SP returned by steem blockchain in 7 days](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0)
 - [View Current Delegators/Supporters](https://steemyy.com/delegators/?id=justyy)
+
+> Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
 
 -----------------------------------------
 
