@@ -37,7 +37,7 @@ Get a higher interest rate at 9% or 10% if:
 @justyy runs a automatic delegation service for nearly a year now. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (from 8% to 10% APR). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
 
 - Delegate to @justyy - [at least 5 SP to join (automatically)](https://steemyy.com/sp-delegate-form/?delegatee=justyy)
-- [Undelegate to @justyy (Quit) - SP returned by steem blockchain in 7 days](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0)
+- [Undelegate to @justyy (Quit) - SP returned by steem blockchain in 5 days](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0)
 - [View Current Delegators/Supporters](https://steemyy.com/delegators/?id=justyy)
 
 > Please note that the SP you enter is the final amount to delegate. For example, if you already delegate 10 SP and you want to delegate another 5 SP, you will need to enter 15 SP (instead of 5 SP) in the delegation form.
@@ -84,7 +84,7 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 请注意：每次代理都是以最后一次输入的SP数量为标准，比如已经代理10 SP，想多代理5 SP则需要输入 最后的数字 15 SP（而不是 5！）
 
 - [加入银行 - 代理至少 5 SP](https://steemyy.com/delegate-form/?delegatee=justyy) - 全自动的，不需要确认。
-- [取消代理 - 退出银行 ](https://steemyy.com/delegate-form/?delegatee=justyy&amount=0) SP 将由STEEM区块链7天返回。
+- [取消代理 - 退出银行 ](https://steemyy.com/delegate-form/?delegatee=justyy&amount=0) SP 将由STEEM区块链5天返回。
 - [查看当前股东列表 - 代理支持行长 @justyy](https://steemyy.com/list-of-delegators/?id=justyy)
 
 ## 点赞比例
