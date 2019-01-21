@@ -19,7 +19,7 @@ MAX_VOTE_BACK = 20000
 # forbidden post tags
 BLACKLIST_TAGS = ['test', 'cn-shui', 'nsfw']
 # bonus post tags
-BONUS_TAGS = { 'cn-activity': 2.0 }
+BONUS_TAGS = { 'cn-activity': 1.0, 'steemhunt': 1.5, 'utopian-io' : 2.0 }
 # tags we don't like
 LESS_TAGS = { 'stats': 0.55, 'cn-stats': 0.55, 'steem-stats': 0.55, 'steemit-stats': 0.55, 'statistics': 0.55, 'actifit': 0.6 }
 # weight for user's delegation comparing to global
