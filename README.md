@@ -24,6 +24,7 @@ Get a higher interest rate at 9% or 10% if:
 
 ## Voting Algorithm
 - The voting percentage is calculated via [Here](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py).
+- [Important Changes to CN Bank Curation Algorithm](https://steemit.com/algorithm/@justyy/important-changes-to-cn-bank-curation-algorithm)
 - [Bank Of China Implements a New Voting Algorithm](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm)
 
 # Update
@@ -89,4 +90,5 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 
 ## 点赞比例
 - 点赞比例计算方法 [在这里](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py)
+- [银行点赞算法重要更新 - 不对过去7天内被“官方”踩过的帐号进行点赞](https://steemit.com/cn/@justyy/7)
 - [银行开源点赞比例计算算法啦](https://steemit.com/cn/@justyy/6encje)
