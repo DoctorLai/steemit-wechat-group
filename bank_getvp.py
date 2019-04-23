@@ -30,6 +30,8 @@ W_DELEGATION_USER = 0.3
 W_REP = 0.2
 # adjustment according to different levels
 ADJUSTMENTS = [ (15, 0.30), (20, 0.35), (50, 0.40), (100, 0.45), (350, 0.55), (600, 0.75), (800, 0.80), (1000, 0.85), (1200, 0.9), (1600, 0.95) ]
+# downvoters in last 7 days => don't vote
+DOWNVOTERS = ["spaminator", "mack-bot", "steemcleaners", "blockcleaner"]
         
 # return a voting value from MIN_VALUE to MAX_VALUE 
 def bank_getvp(
@@ -42,8 +44,13 @@ def bank_getvp(
     title,              # post's title string e.g. "Hello" 
     body,               # post's body string e.g. "Hello, world!"  
     is_member,          # is user part of the wechat member? 
-    witness_vote,       # has the user voted @justyy as witness?
-    votes_back):        # total sum(weight) from user to justyy or dailychina e.g. 100,00    
+    witness_vote,       # has the user voted @justyy as witness?    
+    votes_back,         # total sum(weight) from user to justyy or dailychina e.g. 100,00
+    downvoters7d = []   # downvoters in last 7 days
+    ):            
+    # filter out posts that author has been downvoted in the last 7 days, sorry.
+    if [x in downvoters7d for x in DOWNVOTERS].count(True) > 0:
+        return 0 
     global HIGH_REP, MIN_POST_LENGTH, MIN_VALUE, MAX_VALUE, MIN_SP, BONUS_WITNESS, BONUS_MEMBER, BLACKLIST_TAGS, BONUS_TAGS
     # not voting for delegation less than e.g. 5 SP
     if total_delegated < MIN_SP:
@@ -115,20 +122,26 @@ def bank_getvp(
     
 if __name__ == "__main__":
     title = "title"
+    def assertScore(expected, score, eps = 0.001):
+      if abs(expected - score) <= eps:
+        print("Test passed with ", expected)
+      else:
+        print("Test Failed: expected ", expected, "but got ", score)  
     body = ("X" * MIN_POST_LENGTH)[:MIN_POST_LENGTH]
-    print(bank_getvp(5, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(10, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(15, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(20, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(30, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(50, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(75, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(100, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(350, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(500, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(800, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(1200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(1600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    print(bank_getvp(2500, 20000, 80, 30000, 55, ["cn", 'stats'], title, body, True, True, 10000))    
+    scores = [0, 3.3616074821011614, 4.357578692149988, 5.412278241102609, 6.125797486502999, 8.04691378635907, 8.293524623480668, 10.177007952494314, 10.357341381168414, 14.541985108121784, 14.908552342842388, 16.429144356955383, 18.098874970174183, 22.89648071875631, 0, 0]
+    assertScore(scores[0], bank_getvp(5, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000, ["spaminator", "spaminator", "steemcleaners"]))
+    assertScore(scores[1], bank_getvp(10, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[2], bank_getvp(15, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[3], bank_getvp(20, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[4], bank_getvp(30, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[5], bank_getvp(50, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[6], bank_getvp(75, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[7], bank_getvp(100, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[8], bank_getvp(200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[9], bank_getvp(350, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[10], bank_getvp(500, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[11], bank_getvp(600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[12], bank_getvp(800, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[13], bank_getvp(1200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[14], bank_getvp(1600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000, set(["steemcleaners", "a", "steemcleaner", "spaminator", "spaminator"])))
+    assertScore(scores[15], bank_getvp(2500, 20000, 80, 30000, 55, ["cn", 'stats'], title, body, True, True, 10000, {"steemcleaners"}))    
