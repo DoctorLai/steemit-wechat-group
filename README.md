@@ -19,8 +19,8 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 
 Get a higher interest rate at 9% or 10% if:
 - You Support me and my work as a [witness](https://steemit.com/witness-category/@justyy/justyy-just-another-witness) by voting for me [here!](https://steemconnect.com/sign/account_witness_vote?approve=1&witness=justyy)
-- Delegate at least 350 SP for higher rate 9%.
-- Delegate at least 600 SP for higher rate 10%.
+- ~~~Delegate at least 350 SP for higher rate 9%.~~~
+- ~~~Delegate at least 600 SP for higher rate 10%.~~~
 
 ## Voting Algorithm
 - The voting percentage is calculated via [Here](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py).
@@ -35,7 +35,7 @@ Get a higher interest rate at 9% or 10% if:
 
 # How to Join @justyy CN Bank & Robot?
 ## Delegate to @justyy
-@justyy runs a automatic delegation service for quite a long time. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (from 8% to 10% APR). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
+@justyy runs a automatic delegation service for quite a long time. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (8%). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
 
 - Delegate to @justyy - [at least 5 SP to join (automatically)](https://steemyy.com/sp-delegate-form/?delegatee=justyy)
 - [Undelegate to @justyy (Quit) - SP returned by steem blockchain in 5 days](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0)
@@ -69,7 +69,8 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 
 ## YY 银行有条件加息试行条例
 - 条件一：需要支持我为[见证人](https://steemit.com/cn/@justyy/5h6gyv-cn)
-- 条件二：代理SP大于等于 600 奖励利息 2% 大于350 奖励利息 1%
+- ~~~条件二：代理SP大于等于 600 奖励利息 2% 大于350 奖励利息 1%~~~
+- [银行暂时取消见证人奖励2%利息](https://steemit.com/cn/@justyy/g6zrm-2)
 
 满足两个条件才可以！ 从2018年3月6日开始试行！具体请看： https://steemit.com/cn/@justyy/2bwmvk-yy
 
