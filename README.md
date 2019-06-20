@@ -11,10 +11,12 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
 
 # STEEMIT CN BANK & Group Voting Robot
-The interest is given on daily basis (UTC timezone midnight). The APR is 8% assuming 1 Steem Power = 1 STEEM = 1 SBD. For example,
+The interest is given on daily basis (UTC timezone midnight). The APR is 8% (**10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1)) assuming 1 Steem Power = 1 STEEM = 1 SBD. For example,
 
 ```
-Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 0.661 SBD (8% APR) - (2018-01-06): 1 STEEM = 5.81 USD, 1 SBD = 7.61 USD
+Thank you for supporting @justyy ! Your 101.91 SP gives you daily interests of 0.022 STEEM (8% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. Bonus APR Rate: 0 %. You will get 2% Additional Interests if you set @justyy a proxy: https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1
+
+Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 2% Interests Unlocked! Thank you!)
 ```
 
 ## Voting Algorithm
@@ -30,7 +32,7 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 
 # How to Join @justyy CN Bank & Robot?
 ## Delegate to @justyy
-@justyy runs a automatic delegation service for quite a long time. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (8%). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
+@justyy runs a automatic delegation service for quite a long time. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (8%) or **10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
 
 - Delegate to @justyy - [at least 5 SP to join (automatically)](https://steemyy.com/sp-delegate-form/?delegatee=justyy)
 - [Undelegate to @justyy (Quit) - SP returned by steem blockchain in 5 days](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0)
@@ -53,21 +55,17 @@ Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
 
 # STEEMIT 中文区银行和自动点赞
-当前年利率APR为 8（按 1 SBD = 1 STEEM = 1 SP 来算）。代理是 Steem Power， 利息每天英国凌晨(UTC)发放。比如：
+当前年利率APR为 8, 若是设置justyy为见证人代理则能有10的APR（按 1 SBD = 1 STEEM = 1 SP 来算）。代理是 Steem Power， 利息每天英国凌晨(UTC)发放。比如：
 
 ```
-Thank you for supporting @justyy ! Your 3004.97 SP gives you daily interests of 0.661 SBD (8% APR) - (2018-01-06): 1 STEEM = 5.81 USD, 1 SBD = 7.61 USD
+Thank you for supporting @justyy ! Your 101.91 SP gives you daily interests of 0.022 STEEM (8% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. Bonus APR Rate: 0 %. You will get 2% Additional Interests if you set @justyy a proxy: https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1
+
+Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 2% Interests Unlocked! Thank you!)
 ```
 
 # 更新
-[银行从2018-08-17开始发STEEM利息了](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
-
-## YY 银行有条件加息试行条例
-- 条件一：需要支持我为[见证人](https://steemit.com/cn/@justyy/5h6gyv-cn)
-- ~~~条件二：代理SP大于等于 600 奖励利息 2% 大于350 奖励利息 1%~~~
-- [银行暂时取消见证人奖励2%利息](https://steemit.com/cn/@justyy/g6zrm-2)
-
-满足两个条件才可以！ 从2018年3月6日开始试行！具体请看： https://steemit.com/cn/@justyy/2bwmvk-yy
+1. [银行从2018-08-17开始发STEEM利息了](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
+2. [涨息！听说你们为了几个TOKEN就投靠韩国人？！](https://steemit.com/cn/@justyy/token)
 
 ## [随着行长权力越来越大，股东们的福利是越来越好的，一起加油吧 骚年](https://steemit.com/cn/@justyy/3gzezi)
 1. [现在上车还来得及，行长欢迎你！](https://justyy.com/archives/6575)
