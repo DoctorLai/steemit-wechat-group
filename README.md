@@ -45,8 +45,6 @@ Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.
 # STEEMIT 中文区最大的微信群
 如果您已经在微信群里，但是不在这个列表上，请联系 [@justyy](https://steemit.com/@justyy/) 或者提交一个PR 到 *members.txt* 经审核后会更新到列表上。
 
-**[区块链中文第一大银行简介：你的比特币拿不了利息，但是你把比特币换成steem后就能拿利息了！](https://steemit.com/cn/@justyy/8pkxe)**
-
 # 怎么样加入 STEEMIT 中文微信群？
 请发邮件到 wexin@justyy.com 并且说明你的STEEMIT ID。
 
@@ -68,6 +66,7 @@ Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.
 # 更新
 1. [银行从2018-08-17开始发STEEM利息了](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
 2. [涨息！听说你们为了几个TOKEN就投靠韩国人？！](https://steemit.com/cn/@justyy/token)
+3. **[区块链中文第一大银行简介：你的比特币拿不了利息，但是你把比特币换成steem后就能拿利息了！](https://steemit.com/cn/@justyy/8pkxe)**
 
 ## [随着行长权力越来越大，股东们的福利是越来越好的，一起加油吧 骚年](https://steemit.com/cn/@justyy/3gzezi)
 1. [现在上车还来得及，行长欢迎你！](https://justyy.com/archives/6575)
