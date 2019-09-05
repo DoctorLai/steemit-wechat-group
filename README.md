@@ -11,12 +11,10 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
 
 # STEEMIT CN BANK & Group Voting Robot
-The interest is given on daily basis (UTC timezone midnight). The APR is 8% (**10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1)) assuming 1 Steem Power = 1 STEEM = 1 SBD. For example,
+The interest is given on daily basis (UTC timezone midnight). The APR is 5% (**10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1)) assuming 1 Steem Power = 1 STEEM = 1 SBD. For example,
 
 ```
-Thank you for supporting @justyy ! Your 101.91 SP gives you daily interests of 0.022 STEEM (8% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. Bonus APR Rate: 0 %. You will get 2% Additional Interests if you set @justyy a proxy: https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1
-
-Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 2% Interests Unlocked! Thank you!)
+Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 5% Interests Unlocked! Thank you!)
 ```
 
 ## Voting Algorithm
@@ -32,7 +30,7 @@ Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.
 
 # How to Join @justyy CN Bank & Robot?
 ## Delegate to @justyy
-@justyy runs a automatic delegation service for quite a long time. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (8%) or **10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
+@justyy runs a automatic delegation service for quite a long time. Delegate to @justyy for at least 5 SP and start receiving daily payout as interests (5%) or **10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1). Also, as a supporter, the delegators will start to receive complimentary/curation upvotes (as a thank you) per day  e.g @justyy and a few other curation trails. For more information, [read this](https://github.com/DoctorLai/steemit-wechat-group). The voting weight algorithm is [open source](https://steemit.com/busy/@justyy/bank-of-china-implements-a-new-voting-algorithm).
 
 - Delegate to @justyy - [at least 5 SP to join (automatically)](https://steemyy.com/sp-delegate-form/?delegatee=justyy)
 - [Undelegate to @justyy (Quit) - SP returned by steem blockchain in 5 days](https://steemyy.com/sp-delegate-form/?delegatee=justyy&amount=0)
@@ -55,12 +53,10 @@ Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
 
 # STEEMIT 中文区银行和自动点赞
-当前年利率APR为 8, 若是设置justyy为见证人代理则能有10的APR（按 1 SBD = 1 STEEM = 1 SP 来算）。代理是 Steem Power， 利息每天英国凌晨(UTC)发放。比如：
+当前年利率APR为 %, 若是设置justyy为见证人代理则能有10的APR（按 1 SBD = 1 STEEM = 1 SP 来算）。代理是 Steem Power， 利息每天英国凌晨(UTC)发放。比如：
 
 ```
-Thank you for supporting @justyy ! Your 101.91 SP gives you daily interests of 0.022 STEEM (8% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. Bonus APR Rate: 0 %. You will get 2% Additional Interests if you set @justyy a proxy: https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1
-
-Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 2% Interests Unlocked! Thank you!)
+Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 5% Interests Unlocked! Thank you!)
 ```
 
 # 更新
