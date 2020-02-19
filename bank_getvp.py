@@ -31,7 +31,7 @@ W_REP = 0.2
 # adjustment according to different levels
 ADJUSTMENTS = [ (15, 0.30), (20, 0.35), (50, 0.40), (100, 0.45), (350, 0.55), (600, 0.75), (800, 0.80), (1000, 0.85), (1200, 0.9), (1600, 0.95) ]
 # downvoters in last 7 days => don't vote
-DOWNVOTERS = ["spaminator", "mack-bot", "steemcleaners", "blockcleaner"]
+DOWNVOTERS = ["buildawhale", "themarkymark", "spaminator", "mack-bot", "steemcleaners", "blockcleaner"]
         
 # return a voting value from MIN_VALUE to MAX_VALUE 
 def bank_getvp(
