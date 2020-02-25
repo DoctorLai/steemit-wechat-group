@@ -5,13 +5,13 @@ MIN_POST_LENGTH = 200
 # minimal valid posting percentage
 MIN_VALUE = 0.5
 # maximum valid posting percentage
-MAX_VALUE = 35
+MAX_VALUE = 40
 # minimal SP to be voted
 MIN_SP = 5 
 # bonus for witness vote
-BONUS_WITNESS = 1
+BONUS_WITNESS = 3
 # bonus for member
-BONUS_MEMBER = 0.5
+BONUS_MEMBER = 1
 # bonus for voting back
 BONUS_VOTING_BACK = 5    
 # upperbound value for voting back e.g. 20000 = 2 x 100% votes
@@ -19,7 +19,7 @@ MAX_VOTE_BACK = 20000
 # forbidden post tags
 BLACKLIST_TAGS = ['test', 'cn-shui', 'nsfw']
 # bonus post tags
-BONUS_TAGS = { 'cn-activity': 1.0, 'steemhunt': 1.5, 'utopian-io' : 2.0 }
+BONUS_TAGS = { 'cn-activity': 1.0, 'steemhunt': 1.5, 'utopian-io' : 2.0,  'cn-reader': 3.0, 'hive-180932': 2.0}
 # tags we don't like
 LESS_TAGS = { 'stats': 0.55, 'cn-stats': 0.55, 'steem-stats': 0.55, 'steemit-stats': 0.55, 'statistics': 0.55, 'actifit': 0.6 }
 # weight for user's delegation comparing to global
@@ -112,9 +112,9 @@ def bank_getvp(
             break         
     # final adjustment to ensure at least 80% VP
     if bot_vp < 80:
-      score *= 0.7
+      score *= 0.8
     elif bot_vp < 90:
-      score *= 0.85   
+      score *= 0.9   
     # limit to range
     score = max(MIN_VALUE, score)
     score = min(MAX_VALUE, score)
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     assertScore(scores[8], bank_getvp(200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
     assertScore(scores[9], bank_getvp(350, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
     assertScore(scores[10], bank_getvp(500, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
-    assertScore(scores[11], bank_getvp(600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
+    assertScore(scores[11], bank_getvp(600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000, ['a', 'a', 'b']))
     assertScore(scores[12], bank_getvp(800, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
     assertScore(scores[13], bank_getvp(1200, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000))
     assertScore(scores[14], bank_getvp(1600, 20000, 80, 30000, 55, ["cn"], title, body, True, True, 10000, set(["steemcleaners", "a", "steemcleaner", "spaminator", "spaminator"])))
