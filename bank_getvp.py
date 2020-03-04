@@ -1,7 +1,7 @@
 # high rep constant
 HIGH_REP = 72
 # minimal post length to get vote
-MIN_POST_LENGTH = 200
+MIN_POST_LENGTH = 100
 # minimal valid posting percentage
 MIN_VALUE = 0.5
 # maximum valid posting percentage
@@ -9,7 +9,7 @@ MAX_VALUE = 40
 # minimal SP to be voted
 MIN_SP = 5 
 # bonus for witness vote
-BONUS_WITNESS = 3
+BONUS_WITNESS = 5
 # bonus for member
 BONUS_MEMBER = 1
 # bonus for voting back
