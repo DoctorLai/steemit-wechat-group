@@ -1,3 +1,6 @@
+<font color=red>Please note the daily STEEM (liquid) dividends payout are suspended. </font>
+
+
 # STEEMIT CN WeChat Group
 SteemIt WeChat Group Members. You can contact [@justyy](https://steemit.com/@justyy/) or submit a Pull Request to *members.txt* if you are in the Wechat Group but not in the list. Upon approval, you will enjoy the benefits.
 
