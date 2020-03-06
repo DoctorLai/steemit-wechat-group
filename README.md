@@ -1,4 +1,4 @@
-<font color=red>Please note the daily STEEM (liquid) dividends payout are suspended. </font>
+# Please note the daily STEEM (liquid) dividends payout are suspended.
 
 
 # STEEMIT CN WeChat Group
@@ -12,13 +12,6 @@ please email wexin@justyy.com mentioning your SteemIt ID.
 - [SteemIt Daily Wechat Group RSS Feed for Posts](https://steemyy.com/wechat-ranking/rss/)
 - [SteemIt Daily Wechat Group RSS Feed for Comments](https://steemyy.com/wechat-ranking/rss/comments/)
 - [Introduction to the CN Wechat Group Voting Robot @justyy](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy). 
-
-# STEEMIT CN BANK & Group Voting Robot
-The interest is given on daily basis (UTC timezone midnight). The APR is 5% (**10%** if you set justyy a [proxy](https://v2.steemconnect.com/sign/account-witness-proxy?proxy=justyy&approve=1)) assuming 1 Steem Power = 1 STEEM = 1 SBD. For example,
-
-```
-Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 5% Interests Unlocked! Thank you!)
-```
 
 ## Voting Algorithm
 - The voting percentage is calculated via [Here](https://github.com/DoctorLai/steemit-wechat-group/blob/master/bank_getvp.py).
@@ -54,13 +47,6 @@ Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.
 - [SteemIt 好友微信群文章列表](https://steemyy.com/wechat/rss/)
 - [SteemIt 好友微信群评论列表](https://steemyy.com/wechat/rss/comments/)
 - [CN 区低保银行 + 点赞机器人](https://steemit.com/cn/@justyy/cn-introduction-to-the-cn-wechat-group-voting-robot-justyy)
-
-# STEEMIT 中文区银行和自动点赞
-当前年利率APR为 %, 若是设置justyy为见证人代理则能有10的APR（按 1 SBD = 1 STEEM = 1 SP 来算）。代理是 Steem Power， 利息每天英国凌晨(UTC)发放。比如：
-
-```
-Thank you for supporting @justyy ! Your 60.07 SP gives you daily interests of 0.016 STEEM (10% APR) - (2019-06-20): 1 STEEM = 0.41 USD, 1 SBD = 1.02 USD. (Witness Proxy Bonus Additional 5% Interests Unlocked! Thank you!)
-```
 
 # 更新
 1. [银行从2018-08-17开始发STEEM利息了](https://steemit.com/cn/@justyy/2018-08-17-steem-justyy-bank-changes-interests-currency-to-steem)
