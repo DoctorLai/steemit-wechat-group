@@ -19,7 +19,7 @@ MAX_VOTE_BACK = 20000
 # forbidden post tags
 BLACKLIST_TAGS = ['test', 'cn-shui', 'nsfw']
 # bonus post tags
-BONUS_TAGS = { 'cn-activity': 1.0, 'steemhunt': 1.5, 'utopian-io' : 2.0,  'cn-reader': 3.0, 'hive-180932': 2.0}
+BONUS_TAGS = { 'cn-activity': 1.0, 'steemhunt': 1.5, 'justyy' : 2.0,  'cn-reader': 3.0, 'hive-180932': 2.0}
 # tags we don't like
 LESS_TAGS = { 'stats': 0.55, 'cn-stats': 0.55, 'steem-stats': 0.55, 'steemit-stats': 0.55, 'statistics': 0.55, 'actifit': 0.6 }
 # weight for user's delegation comparing to global
@@ -53,8 +53,8 @@ def bank_getvp(
         return 0 
     global HIGH_REP, MIN_POST_LENGTH, MIN_VALUE, MAX_VALUE, MIN_SP, BONUS_WITNESS, BONUS_MEMBER, BLACKLIST_TAGS, BONUS_TAGS
     # not voting for delegation less than e.g. 5 SP
-    if total_delegated < MIN_SP:
-        return 0
+    if delegated < MIN_SP:
+        return 0        
     # filter out posts containing the blacklist tags
     if [x in tags for x in BLACKLIST_TAGS].count(True) > 0:
         return 0
@@ -88,7 +88,7 @@ def bank_getvp(
             score += _[1] * norm(delegated, total_delegated)
             break
     # add a linear part
-    score += delegated / total_delegated   
+    score += delegated / total_delegated 
     # the higher percentage user's delegation per own SP, the better
     score += W_DELEGATION_USER * norm(delegated, user_rep)
     # the higher reputation, the better
